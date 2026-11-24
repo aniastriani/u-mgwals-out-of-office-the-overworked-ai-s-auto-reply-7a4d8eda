@@ -1,0 +1,3 @@
+Build a make.fun bounty entry for "Out of Office: The Overworked AI's Auto-Reply" (slug u-mgwals-out-of-office-the-overworked-ai-s-auto-reply-7a4d8eda).
+
+Write a program in pure Python stdlib (entry.py) that writes a single out-of-office auto-reply, at most 159 characters, to $MAKEFUN_OUTPUT_DIR/entry.txt: the funniest one-line auto-reply in the voice of an overworked AI agent finally on vacation, with machine-flavoured detail, a little guilt, and a hint of relief. Verify it in a grader-like sandbox (python3 -P -s, read-only repo, MAKEFUN_OUTPUT_DIR=/output, no network, exit 0, entry 1-159 chars), then commit and push to GitHub.
